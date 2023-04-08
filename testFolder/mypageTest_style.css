@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'establishRoomNo703OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2112@1.0/establishRoomNo703OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    margin:0;
+    padding:0;
+    background-color: #F5EBEB;
+    /* background-color: #FFE6C7; */
+    font-family: 'establishRoomNo703OTF';
+}
+#workSpace{
+    width: 85%;
+    height: 100%;
+    margin-left : 5%;
+    /* color : #454545; */
+    color : #867070;
+    
+}
+#title_area{
+    width: 100%;
+    height: 20%;
+    text-align: center;
+}
+#space{
+    width: 100%;
+    height: 10%;
+    /* background-color: white; */
+
+}
+#text{
+    /* background-color: #FFA559; */
+    background-color: #E4D0D0;
+    height: 50%;
+    line-height: 100px;
+    margin:0;
+}
+
+#work_div_cp{
+    width: 100%;
+    height: 20%;
+    /* background-color: aqua; */
+    display: flex;
+}
+
+#text_area{
+    width: 40%;
+    height: 100%;
+    /* background-color: #b39fd4; */
+    line-height: 30px;
+}
+
+
+#work_div_badminton{
+    width: 100%;
+    height: 20%;
+    display: flex;
+    /* background-color: white; */
+}
+
+#work_div_languages{
+    margin-top:30px;
+    width: 100%;
+    height: 20%;
+    display: flex;
+}
