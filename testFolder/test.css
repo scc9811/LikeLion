@@ -62,10 +62,10 @@ html, body{
     white-space: nowrap;
 }
 
-#languages_text_area{
+#wannabe_text_area{
     margin-left : 50px;
     height: 200px;
-    margin-top : 50px;
+    /* margin-top : 30px; */
     line-height : 40px;
     overflow: hidden;
     text-overflow: ellipsis;
