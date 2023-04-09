@@ -17,6 +17,7 @@ html, body{
     /* background-color: white; */
 }
 #title_area{
+    font-size : 48px;
     position:relative;
     padding-top : 0;
     text-align: center;
